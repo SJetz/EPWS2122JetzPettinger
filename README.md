@@ -1,7 +1,7 @@
 # EPWS2122JetzPettinger
 * Patrick Alexander Pettinger
 * Sarah Elisabeth Jetz
-* [Flyer für Wohntrainingszentrum (WTZ) ST. Paulus Stift Neuötting ](https://www.j-f-bussereau-stiftung.de/pdf/Flyer_WTZ.pdf?
+
 # Exposé
 ## Darstellung des Problemraums
 Das Projekt beleuchtet die Einkaufsproblematik einer Person mit mentaler Retardierung und soll zur Inklusion und Autonomie dieser Person beitragen. Aktuell muss ein Betreuer für eine zu betreuende Person den Einkauf planen, das Geld verwalten und Hilfe bei Kulturtechniken wie Lesen, Rechnen und Schreiben bieten. Ebenfalls ist es für betreute Personen, je nach Grad des individuellen Krankheitsbildes schwer, mit der Produktvielfalt eines herkömmlichen Supermarktes umzugehen. Das Projekt soll betreuten Personen die Möglichkeit bieten, Einkäufe selbstständig zu planen und gegebenenfalls durchführen zu können. Ein Betreuer kann die Planung einsehen und in Form von Budgetsetzungen beeinflussen. Dies soll den Arbeitsalltag des Betreuungspersonals erleichtern und zugleich die Selbstständigkeit, des zu Betreuenden fördern.    
