@@ -24,7 +24,7 @@ Das Projekt beleuchtet die Einkaufsproblematik einer Person mit mentaler Retardi
 ### gesellschaftliche Relevanz
 * Inklusion und Autonomie mental retardierender Personen in der Gesellschaft voranzutreiben. 
 * Alltagsherausforderungen eigenständig meistern, um das Selbstwertgefühl betroffener Personen anzuheben. 
-### wissenschaftliche Relevanz
+
 
 
 
